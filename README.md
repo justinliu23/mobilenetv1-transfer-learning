@@ -1,4 +1,4 @@
-# mobilenetv1-transfer-learning
+# mobilenetv2-transfer-learning
 
 ## Table of Contents
 1. [Introduction](#introduction)
